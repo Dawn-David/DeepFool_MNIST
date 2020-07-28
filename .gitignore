@@ -142,7 +142,7 @@ cython_debug/
 images/
 data/
 logs/
-.tar
+*.tar
 
 # except for .gitkeep and .keep
 !.gitkeep
